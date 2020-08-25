@@ -4,4 +4,4 @@ Analysis of Trending YouTube Video Statistics dataset to inform channel creation
 
 # Link to Presentation: https://tinyurl.com/ronamasab-capstone1
 
-##Link to Dataset: https://www.kaggle.com/datasnaek/youtube-new
+## Link to Dataset: https://www.kaggle.com/datasnaek/youtube-new
